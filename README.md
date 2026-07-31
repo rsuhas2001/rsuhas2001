@@ -10,7 +10,7 @@ I'm Suhas Ramachandra - an analyst who works on data, AI, and operations problem
 
 ## 👋 About Me
 
-I work across analytics, AI tools, and supply chain operations.
+I work across **analytics, AI tools, and supply chain operations**.
 This GitHub shows projects built through code, with a focus on solving real operational problems and showing the thinking behind each solution.
 
 The repositories here are meant to be read as **project case studies**, not just code.
