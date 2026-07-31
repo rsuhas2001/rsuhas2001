@@ -48,7 +48,7 @@ Always up for a conversation about data, AI, or operations 👋
 
 <div align="center">
 
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+<img src="https://via.placeholder.com/500x3/2193b0/2193b0" width="40%">
 
 </div>
 
