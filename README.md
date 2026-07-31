@@ -46,6 +46,8 @@ Always up for a conversation about data, AI, or operations 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhasramachandra/)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%">
+
 ![Visitors](https://komarev.com/ghpvc/?username=rsuhas2001&color=blue&style=flat&label=Visitors)
 
 </div>
