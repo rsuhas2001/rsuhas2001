@@ -6,8 +6,6 @@
 
 I'm Suhas Ramachandra - an analyst who works on data, AI, and operations problems through hands-on projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhasramachandra/)
-
 </div>
 
 ## 👋 About Me
@@ -40,20 +38,13 @@ Each repository is meant to answer:
 
 Think of the code as proof of the work, not the whole story.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rsuhas2001&show_icons=true&theme=default&hide_border=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=rsuhas2001&hide_border=true"/>
-
-</div>
-
 ## 🤝 Let's Connect
 
 Always up for a conversation about data, AI, or operations 👋
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhasramachandra/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=rsuhas2001&color=blue&style=flat&label=Profile+Views)
 
