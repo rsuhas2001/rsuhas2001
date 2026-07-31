@@ -46,7 +46,11 @@ Always up for a conversation about data, AI, or operations 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhasramachandra/)
 
----
+<div align="center">
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+</div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=rsuhas2001&color=blue&style=flat&label=Visitors)
 
